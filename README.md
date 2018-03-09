@@ -38,6 +38,10 @@ quested object. Its location is sent to a robot which follow the path given
 by the Server System and robot will pick the same object and give it to the
 patient.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9SLw4HRTq2o
+" target="_blank"><img src="http://img.youtube.com/vi/9SLw4HRTq2o/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 • There are few Robot Which does similar operations but they have
 built in Processors, Camera, Microphone, Sensors and other required
 hardware installed in them and they cost in kilos of dollars but
@@ -98,3 +102,8 @@ Overall operation of the project involve the proper synchronization of the
 elements of both back-end and front-end.
 Problem domains are Image processing, Intelligent Digital Mapping and
 Robotics.
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9SLw4HRTq2o
+" target="_blank"><img src="http://img.youtube.com/vi/9SLw4HRTq2o/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
